@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Hao Zhang"
   pronouns         : # example: "she/her"
-  bio              : "Researcher in marine meteorology, maritime route networks, and deep learning."
-  location         : # e.g. "Shanghai, China" — fill in your city
-  employer         : # e.g. "Your University / Lab" — fill in your affiliation
+  bio              : "Ph.D. Candidate & Engineer · Ship weather routeing and marine meteorology."
+  location         : "Beijing, China"
+  employer         : "CMA Meteorological Routeing Centre"
   uri              : # URL
   email            : "haozhangsmu@gmail.com"
 

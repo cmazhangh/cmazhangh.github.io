@@ -1,29 +1,21 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# Uncomment any of the sections below once you have real content for them.
+# Single-page site: the header links jump to sections on the homepage
+# (anchors), so nothing navigates away to a separate page.
 
 main:
+  - title: "Research"
+    url: /#research-interests
+
+  - title: "Education"
+    url: /#education
+
+  - title: "Experience"
+    url: /#work-experience
+
+  - title: "Projects"
+    url: /#research-projects
+
   - title: "Publications"
-    url: /publications/
+    url: /#selected-publications
 
-  - title: "CV"
-    url: /cv/
-
-  # - title: "Talks"
-  #   url: /talks/
-
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "CV (PDF)"
+    url: /files/Hao_Zhang_Academic_CV.pdf
