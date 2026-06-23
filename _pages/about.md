@@ -36,13 +36,7 @@ Education
 
 Experience
 ======
-I lead operational ship weather routeing services and the related research and
-development for ocean-going vessels at the China Meteorological Administration.
-
-- **Engineer**, Third Division, Department of Special Support, CMA · *2025.10 – Present*
-- **Deputy Chief**, Ship Weather Routeing Section, CMA Meteorological Routeing Centre · *2020.06 – Present*
-- **Engineer**, CMA Meteorological Routeing Centre · *2022.03 – 2024.06*
-- **Assistant Engineer**, CMA Meteorological Routeing Centre · *2020.07 – 2022.03*
+**Deputy Chief**, Ship Weather Routeing Section — CMA Meteorological Routeing Centre, China Meteorological Administration · *2020 – Present*
 
 Research Projects
 ======

@@ -78,3 +78,19 @@ body {
 .author__urls { font-size: 0.82em; }
 .author__urls li { padding: 0.16em 0; }
 .author__avatar img { border-radius: 6px; }
+
+/* No "Follow" toggle: keep the contact list always inline & visible (incl. mobile) */
+.author__urls-wrapper > button { display: none; }
+.author__urls {
+  display: block;
+  position: relative;
+  right: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  z-index: auto;
+}
+.author__urls:before,
+.author__urls:after { display: none; }
