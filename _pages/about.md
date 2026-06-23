@@ -61,14 +61,3 @@ Selected Publications
 1. **Zhang, H.**, Niu, G., Liu, T., et al. (2025). *Status Quo and Future Prospects of China's Weather Routing Services for Ocean-Going Business Vessels.* **Oceans**, 6(3). [doi:10.3390/oceans6030038](https://doi.org/10.3390/oceans6030038)
 2. **Zhang, H.**, Rao, Y., Liu, T., et al. (2023). *Optimizing the routing of ship's tropical cyclone avoidance: a case study of typhoon "Doksuri".* **Journal of Marine Meteorology**, 43(4):1–10.
 3. Mei, X., Wu, H., Xian, J., Chen, B., **Zhang, H.**, & Liu, X. (2019). *A Robust, Non-Cooperative Localization Algorithm in Ocean Sensor Networks.* **Sensors**, 19(12), 2708. [doi:10.3390/s19122708](https://doi.org/10.3390/s19122708)
-
-Skills
-======
-- **Programming**: Python, PostgreSQL
-- **Team**: Key Innovation Team of CMA — Ship Weather Routeing Team (2023 – Present)
-
-Contact
-======
-- **Email**: [haozhangsmu@gmail.com](mailto:haozhangsmu@gmail.com)
-- **Address**: No. 46 Zhongguancun South Avenue, Beijing 100081, P.R. China
-- **CV**: [Download PDF](/files/Hao_Zhang_Academic_CV.pdf)
