@@ -47,7 +47,7 @@ Research Projects
 - **National ship weather routeing sub-systems** — China Marine Engineering, CMA · *2022.05 – 2025.12*
 - **Real-time monitoring and autonomous information service for marine meteorology** (2019YFC1510105) — National Key R&D Program of China · *2021.05 – 2024.05*
 
-Selected Publications
+Publications
 ======
 1. **Zhang, H.**, Niu, G., Liu, T., et al. (2025). *Status quo and future prospects of China's weather routing services for ocean-going business vessels.* **Oceans**, 6(3). [doi:10.3390/oceans6030038](https://doi.org/10.3390/oceans6030038)
 2. Mei, X., Wu, H., Xian, J., Chen, B., **Zhang, H.**, & Liu, X. (2019). *A robust, non-cooperative localization algorithm in ocean sensor networks.* **Sensors**, 19(12), 2708. [doi:10.3390/s19122708](https://doi.org/10.3390/s19122708)
