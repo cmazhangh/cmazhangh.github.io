@@ -1,18 +1,7 @@
-# Single-page site: the header links jump to sections on the homepage
-# (anchors), so nothing navigates away to a separate page.
+# Single-page site with no top navigation bar (the masthead is hidden via CSS).
+# To restore a top menu, unhide `.masthead` in assets/css/main.scss and add
+# items below, e.g.:
+#   - title: "Publications"
+#     url: /#selected-publications
 
 main:
-  - title: "Research"
-    url: /#research-interests
-
-  - title: "Education"
-    url: /#education
-
-  - title: "Experience"
-    url: /#experience
-
-  - title: "Projects"
-    url: /#research-projects
-
-  - title: "Publications"
-    url: /#selected-publications

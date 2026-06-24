@@ -94,3 +94,8 @@ body {
 }
 .author__urls:before,
 .author__urls:after { display: none; }
+
+/* No top navigation bar — clean single page (name lives in the sidebar) */
+.masthead { display: none; }
+.initial-content .page,
+#main { padding-top: 1em; }
