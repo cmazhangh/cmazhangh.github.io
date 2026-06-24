@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am **Hao Zhang**, a Ph.D. candidate in Traffic Information Engineering and
 Control at **Shanghai Maritime University** and an engineer at the **CMA
 Meteorological Routeing Centre** of the China Meteorological Administration.
-
 My work sits at the intersection of **marine meteorology** and **intelligent
 navigation**. I develop weather-aware route-optimization methods that help ships
 avoid tropical cyclones, limit speed loss in heavy seas, and sail more safely and
