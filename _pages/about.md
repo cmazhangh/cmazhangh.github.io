@@ -50,4 +50,7 @@ Research Projects
 Selected Publications
 ======
 1. **Zhang, H.**, Niu, G., Liu, T., et al. (2025). *Status quo and future prospects of China's weather routing services for ocean-going business vessels.* **Oceans**, 6(3). [doi:10.3390/oceans6030038](https://doi.org/10.3390/oceans6030038)
-3. Mei, X., Wu, H., Xian, J., Chen, B., **Zhang, H.**, & Liu, X. (2019). *A robust, non-cooperative localization algorithm in ocean sensor networks.* **Sensors**, 19(12), 2708. [doi:10.3390/s19122708](https://doi.org/10.3390/s19122708)
+2. Mei, X., Wu, H., Xian, J., Chen, B., **Zhang, H.**, & Liu, X. (2019). *A robust, non-cooperative localization algorithm in ocean sensor networks.* **Sensors**, 19(12), 2708. [doi:10.3390/s19122708](https://doi.org/10.3390/s19122708)
+3. Zhang Z , Zhang C , **Zhang H** ,et al.*Analyses of Ship A avoiding the influence caused by typhoon "Doksuri"[J].* **Frontiers in Marine Science**, 2025, 12(12):1661860.
+4. F. Shaodong, Y. Xiaochuan, J. Jianxiong and **Z. Hao**, *A Study on Cybersecurity Risks Arising from the Application of Meteorological Navigation on Ships.* 2025 13th International Conference on Information and Communication Networks (ICICN), Beijing, China, 2025, pp. 347-352.
+5. **张浩**,饶玉昆,刘涛,等.*远洋船舶避台航线设计方案——以台风"杜苏芮"(2305)为例[J]*.**海洋气象学报**, 2023(4):32-39.
